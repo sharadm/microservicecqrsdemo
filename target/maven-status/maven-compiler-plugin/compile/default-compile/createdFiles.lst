@@ -1,0 +1,8 @@
+com\microservice\demo\userservice\model\User.class
+META-INF\MANIFEST.MF
+META-INF\maven\com.microservice\usermicroservice\pom.xml
+META-INF\maven\com.microservice\usermicroservice\pom.properties
+com\microservice\demo\userservice\DemoUserMicroserviceApplication.class
+com\microservice\demo\userservice\StreamLambdaHandler.class
+com\microservice\demo\userservice\controller\UserController.class
+com\microservice\demo\userservice\repository\UserRepository.class
